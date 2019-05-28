@@ -1,3 +1,6 @@
+**NOTE: please use nbviewer to view jupyter notebook files if it does not load. Simply copy the link to the jupyter notebook file, go to this website: https://nbviewer.jupyter.org/ and paste into the box.**
+
+
 **Project Goals**
 
 The goal of this project was to answer the question, "WHAT ARE THE ELEMENTS OF A GREAT IPA?" from the lens of brewers and beer enthusiast, using unsupervised learning techniques and natural language processing (NLP). Data was scrapped from www.beeradvocate.com. Reviews from 300 different IPA beers were scrapped, totaling nearly 55,000 reviews. 
